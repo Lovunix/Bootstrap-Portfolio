@@ -1,0 +1,48 @@
+
+
+/* Navigation Bar */
+
+#navbarNav {
+  display: flex;
+  justify-content:flex-end;
+}
+
+
+
+/* Hero Banner */
+#photo_profile {
+    background-image: url(../images/portrait.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+  }
+
+
+  #background_scene {
+    background-image: url(../images/background.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+  }
+
+  #background_scene h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+
+  #cool_stuff {
+    background-image: url(../images/coolstuff.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+  }
+
+  #cool_stuff h2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+  }
