@@ -41,3 +41,26 @@
     align-items: center;
     height: 100%;
   }
+
+.workgrid {
+  padding-bottom: 10px;
+  background-color: azure;
+}
+
+.card-body {
+  padding: 10%;
+}
+
+.badge {
+    float: right;
+  }
+
+.btncust {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(192, 226, 201);
+  border-color: rgb(215, 255, 196);
+  color: black;
+}
+
