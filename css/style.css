@@ -40,6 +40,7 @@
     justify-content: flex-end;
     align-items: center;
     height: 100%;
+    font-size:medium;
   }
 
  #aboutme h3 {
@@ -64,6 +65,11 @@
     float: right;
   }
 
+.btn-primary {
+  background-color: #fd0d0d63;
+  border-color: rgb(209, 167, 207);
+}
+
 .btncust {
   display:flex;
   justify-content: center;
@@ -74,11 +80,9 @@
 }
 
 
+
+
 #footercust {
-  background-color: rgb(213, 198, 216);
+ background-color: rgb(213, 198, 216);
 }
 
-
-#cusinstagram {
-  background-color: aliceblue ;
-}
