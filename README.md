@@ -25,5 +25,7 @@ Teamwork
 My projects:
 
 Project 1: https://lovunix.github.io/Horiseon/
+
 Project 2: https://lovunix.github.io/Challenge2/
+
 Project 3: https://lovunix.github.io/Bootstrap-Portfolio/
